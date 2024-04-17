@@ -549,6 +549,14 @@ select {
         left: -9999px;
     }
 
+    /*----- INTRO STYLES -----*/
+    #intro {
+        margin: 5%;
+    }
+    #intro h2, #intro p {
+        margin: 0;
+    }
+
     /* ----- IMAGE STYLES ----- */
     #img-grid {
         display: grid;
