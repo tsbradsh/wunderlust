@@ -242,6 +242,9 @@ select {
     }
     /*-----INTRO STYLES-----*/
     #intro {
+        margin: 0;
+    }
+    #intro h2, #intro p {
         margin: 5%;
     }
     
